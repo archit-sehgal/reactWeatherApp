@@ -1,3 +1,3 @@
 <h1>Dynamic Weather App </h1>
-<span>Live Demo:https://react-weather-app-eosin.vercel.app/</span>
+<span>Live Demo:https://react-weather-app-eosin.vercel.app/</span><br/>
 Create a dynamic weather app using React that fetches real-time weather data based on user-input city names. The app features a visually appealing interface with background images changing according to the temperature. The user can search for a city and view its current weather conditions, including temperature, city name, feels-like temperature, humidity, maximum and minimum temperatures, sunrise, and sunset times. The background image transitions between images of sun, rain, clouds, and darkness, enhancing the visual experience. The app utilizes the RapidAPI service for weather data retrieval and offers an interactive and informative weather visualization.
