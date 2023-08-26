@@ -104,14 +104,14 @@ function App() {
               </p>
             </div>
             <div className="maxtemp">
-              <span>Max Temp</span>
+              <span>Max-Temp</span>
               <p>
                 {data.max_temp}
                 <div className="degree" />
               </p>
             </div>
             <div className="mintemp">
-              <span>Min Temp</span>
+              <span>Min-Temp</span>
               <p>
                 {data.min_temp}
                 <div className="degree" />
