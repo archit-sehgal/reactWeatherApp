@@ -112,7 +112,7 @@ function App() {
             </div>
             <div className="mintemp">
               <span>Min-Temp</span>
-              <p>
+              <p> 
                 {data.min_temp}
                 <div className="degree" />
               </p>
